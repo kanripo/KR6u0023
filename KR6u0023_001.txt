@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:36.884537
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:02
 #+TITLE: 父母恩重經
 #+PROPERTY: CBETA_ID T85n2887
 #+PROPERTY: ID KR6u0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2887
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0023_T_000-1403b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0023_T_001-1403b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -14,9 +14,8 @@
 ¶
 ¶
 ¶
-No.2887¶
-
- 佛說父母恩重經¶
+No. 2887¶
+佛說父母恩重經¶
 ¶
 
 如是我聞。一時佛在王舍城耆闍崛山中。與¶
