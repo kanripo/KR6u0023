@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:36.884537
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:02
 #+TITLE: 父母恩重經
 #+PROPERTY: CBETA_ID T85n2887
 #+PROPERTY: ID KR6u0023
